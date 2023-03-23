@@ -1,8 +1,11 @@
+[![](https://img.shields.io/badge/website-orange?&style=for-the-badge&logo=Google%20chrome&logoColor=white)](https://xrvitd.github.io/index.html)
+[![](https://img.shields.io/badge/google%20scholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=3C85rOsAAAAJ&hl=zh-CN)
+
 ### Hi there 👋
 
 I am a second-year master student at the Interdisciplinary Research Center (IRC) of Shandong University. I am under the tutelage of Prof. Changhe Tu and Prof. Shiqing Xin. My research interests are computer graphics, computational geometry, point cloud reconstruction and geometric modeling.
 
-😄I am looking for PhD to start in Fall 2024. Contact me if you have any leads!
+😄**I am looking for PhD to start in Fall 2024. Contact me if you have any leads!**
 
 <!--
 **Xrvitd/Xrvitd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
