@@ -3,9 +3,9 @@
 
 ### Hi there 👋
 
-I am a second-year master student at the Interdisciplinary Research Center (IRC) of Shandong University. I am under the tutelage of Prof. Changhe Tu and Prof. Shiqing Xin. My research interests are computer graphics, computational geometry, point cloud reconstruction and geometric modeling.
 
-**I am looking for PhD to start in Fall 2024. Contact me if you have any leads! 😄**
+I am a final-year master's student at the Interdisciplinary Research Center (IRC) of Shandong University, under the supervision of Prof. Changhe Tu and Prof. Shiqing Xin. My research areas are computer graphics, computational geometry, point cloud reconstruction, and geometric modeling. I am joining The University of Hong Kong as a Ph.D. student supervised by Prof. Wenping Wang and Prof. Taku Komura.
+
 
 <!--
 **Xrvitd/Xrvitd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
