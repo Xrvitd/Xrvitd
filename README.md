@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 
-I am joining The University of Hong Kong as a Ph.D. student supervised by Prof. Wenping Wang and Prof. Taku Komura. Before that, I was a master student at the Interdisciplinary Research Center (IRC) of Shandong University, under the supervision of Prof. Changhe Tu, Prof. Shiqing Xin and Prof. Mingyan Jiang. Currently, I am interning at Microsoft Research Asia (MSRA) with Dr. Hao Pan, Dr. Yang Liu and Dr. Xin Tong. My research interests are computer graphics, 3D vision, geometry processing and geometric learning.
+I am joining The University of Hong Kong as a Ph.D. student supervised by Prof. Wenping Wang and Prof. Taku Komura. My research interests are computer graphics, 3D vision, geometry processing and geometric learning.
 
 <!--
 **Xrvitd/Xrvitd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
