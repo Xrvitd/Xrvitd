@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 
-I am joining The University of Hong Kong as a Ph.D. student in the Department of Computer Science. My research interests are computer graphics, 3D vision, geometry processing and geometric learning.
+I am a Ph.D. student at the Department of Computer Science of The University of Hong Kong. My research interests are computer graphics, 3D vision, geometry processing and geometric learning.
 
 <!--
 **Xrvitd/Xrvitd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
